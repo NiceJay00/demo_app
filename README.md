@@ -36,6 +36,8 @@ Top Menu (Settings)
 ↓
 Log-out → Sign-in Screen
 
+Figma link: https://www.figma.com/design/YOS2q74w32X9ZhuTnl797P/Untitled?node-id=0-1&t=p45LNSRjG1VyxgCj-1
+
 🧰 Tech Stack
 Framework: Flutter
 Language: Dart
