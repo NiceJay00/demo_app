@@ -76,3 +76,21 @@ MD Jabir Bin Abdullah
 Email: jabirnasim@gmail.com
 github: https://github.com/jabirnasim
 
+
+-----------------------------------------------------------------------------------
+
+
+For the week 2 deliverable, we focuses on creating a functional user authentication feature for the application. 
+
+This task featured four main screens that are essential to user experience.
+
+the screens are as attached in the READme File 
+
+SignUp Screen
+<img width="397" height="738" alt="image" src="https://github.com/user-attachments/assets/ca0ce64d-f374-40a6-ab0f-5a58321eaa3a" />
+
+SignIn Screen 
+
+
+
+
